@@ -1,0 +1,66 @@
+Mon Oct 03 2011 14:23:13 GMT+0800 (CST) [urlopen] [DEBUG] [news.qq.com] http request url: http://news.qq.com/a/20111003/000027.htm
+Mon Oct 03 2011 14:23:14 GMT+0800 (CST) [urlopen] [DEBUG] [news.qq.com] received content, 18438 B
+Mon Oct 03 2011 14:23:14 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] extract(http://news.qq.com/a/20111003/000027.htm)
+Mon Oct 03 2011 14:23:14 GMT+0800 (CST) [cache] [INFO] [news.qq.com] create non-existing domain directory
+Mon Oct 03 2011 14:23:14 GMT+0800 (CST) [filter] [INFO] [news.qq.com] create Filter(http://news.qq.com/a/20111003/000027.htm)
+Mon Oct 03 2011 14:23:14 GMT+0800 (CST) [filter] [INFO] [news.qq.com] no pre-filters to apply
+Mon Oct 03 2011 14:23:14 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] callback from preFilter(18438):http://news.qq.com/a/20111003/000027.htm
+Mon Oct 03 2011 14:23:14 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] callback from readability.parse(0):http://news.qq.com/a/20111003/000027.htm
+Mon Oct 03 2011 14:23:14 GMT+0800 (CST) [filter] [INFO] [news.qq.com] filtering create jsdom doc: http://news.qq.com/a/20111003/000027.htm (39)
+Mon Oct 03 2011 14:23:17 GMT+0800 (CST) [cache] [DEBUG] [news.qq.com] write cache content (1) file: ./cache/news.qq.com/290ddc3509156de75d82176bb5958ed87a8327f0.rdby
+Fri Oct 07 2011 20:26:36 GMT+0800 (CST) [urlopen] [DEBUG] [news.qq.com] http request url: http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:26:37 GMT+0800 (CST) [urlopen] [DEBUG] [news.qq.com] received content, 136500 B
+Fri Oct 07 2011 20:26:37 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] extract(http://news.qq.com/a/20111003/000027.htm)
+Fri Oct 07 2011 20:26:37 GMT+0800 (CST) [filter] [INFO] [news.qq.com] create Filter(http://news.qq.com/a/20111003/000027.htm)
+Fri Oct 07 2011 20:26:37 GMT+0800 (CST) [filter] [INFO] [news.qq.com] no pre-filters to apply
+Fri Oct 07 2011 20:26:37 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] callback from preFilter(136498):http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:26:37 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] callback from readability.parse(5306):http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:26:37 GMT+0800 (CST) [filter] [INFO] [news.qq.com] filtering create jsdom doc: http://news.qq.com/a/20111003/000027.htm (5345)
+Fri Oct 07 2011 20:27:48 GMT+0800 (CST) [urlopen] [DEBUG] [news.qq.com] http request url: http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:27:49 GMT+0800 (CST) [urlopen] [DEBUG] [news.qq.com] received content, 136500 B
+Fri Oct 07 2011 20:27:49 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] extract(http://news.qq.com/a/20111003/000027.htm)
+Fri Oct 07 2011 20:27:49 GMT+0800 (CST) [filter] [INFO] [news.qq.com] create Filter(http://news.qq.com/a/20111003/000027.htm)
+Fri Oct 07 2011 20:27:49 GMT+0800 (CST) [filter] [INFO] [news.qq.com] no pre-filters to apply
+Fri Oct 07 2011 20:27:49 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] callback from preFilter(136498):http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:27:49 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] callback from readability.parse(5306):http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:27:49 GMT+0800 (CST) [filter] [INFO] [news.qq.com] filtering create jsdom doc: http://news.qq.com/a/20111003/000027.htm (5345)
+Fri Oct 07 2011 20:31:00 GMT+0800 (CST) [urlopen] [DEBUG] [news.qq.com] http request url: http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:31:01 GMT+0800 (CST) [urlopen] [DEBUG] [news.qq.com] received content, 136459 B
+Fri Oct 07 2011 20:31:01 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] extract(http://news.qq.com/a/20111003/000027.htm)
+Fri Oct 07 2011 20:31:01 GMT+0800 (CST) [filter] [INFO] [news.qq.com] create Filter(http://news.qq.com/a/20111003/000027.htm)
+Fri Oct 07 2011 20:31:01 GMT+0800 (CST) [filter] [INFO] [news.qq.com] no pre-filters to apply
+Fri Oct 07 2011 20:31:01 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] callback from preFilter(136457):http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:31:01 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] callback from readability.parse(5306):http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:31:01 GMT+0800 (CST) [filter] [INFO] [news.qq.com] filtering create jsdom doc: http://news.qq.com/a/20111003/000027.htm (5345)
+Fri Oct 07 2011 20:33:37 GMT+0800 (CST) [urlopen] [DEBUG] [news.qq.com] http request url: http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:33:38 GMT+0800 (CST) [urlopen] [DEBUG] [news.qq.com] received content, 136459 B
+Fri Oct 07 2011 20:33:38 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] extract(http://news.qq.com/a/20111003/000027.htm)
+Fri Oct 07 2011 20:33:38 GMT+0800 (CST) [filter] [INFO] [news.qq.com] create Filter(http://news.qq.com/a/20111003/000027.htm)
+Fri Oct 07 2011 20:33:38 GMT+0800 (CST) [filter] [INFO] [news.qq.com] no pre-filters to apply
+Fri Oct 07 2011 20:33:38 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] callback from preFilter(136457):http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:33:39 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] callback from readability.parse(5306):http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:33:39 GMT+0800 (CST) [filter] [INFO] [news.qq.com] filtering create jsdom doc: http://news.qq.com/a/20111003/000027.htm (5345)
+Fri Oct 07 2011 20:35:32 GMT+0800 (CST) [urlopen] [DEBUG] [news.qq.com] http request url: http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:35:33 GMT+0800 (CST) [urlopen] [DEBUG] [news.qq.com] received content, 136459 B
+Fri Oct 07 2011 20:35:33 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] extract(http://news.qq.com/a/20111003/000027.htm)
+Fri Oct 07 2011 20:35:33 GMT+0800 (CST) [filter] [INFO] [news.qq.com] create Filter(http://news.qq.com/a/20111003/000027.htm)
+Fri Oct 07 2011 20:35:33 GMT+0800 (CST) [filter] [INFO] [news.qq.com] no pre-filters to apply
+Fri Oct 07 2011 20:35:33 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] callback from preFilter(136457):http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:35:34 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] callback from readability.parse(5306):http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:35:34 GMT+0800 (CST) [filter] [INFO] [news.qq.com] filtering create jsdom doc: http://news.qq.com/a/20111003/000027.htm (5345)
+Fri Oct 07 2011 20:37:58 GMT+0800 (CST) [urlopen] [DEBUG] [news.qq.com] http request url: http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:37:59 GMT+0800 (CST) [urlopen] [DEBUG] [news.qq.com] received content, 136459 B
+Fri Oct 07 2011 20:37:59 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] extract(http://news.qq.com/a/20111003/000027.htm)
+Fri Oct 07 2011 20:37:59 GMT+0800 (CST) [filter] [INFO] [news.qq.com] create Filter(http://news.qq.com/a/20111003/000027.htm)
+Fri Oct 07 2011 20:37:59 GMT+0800 (CST) [filter] [INFO] [news.qq.com] no pre-filters to apply
+Fri Oct 07 2011 20:37:59 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] callback from preFilter(136457):http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:38:00 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] callback from readability.parse(5306):http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:38:00 GMT+0800 (CST) [filter] [INFO] [news.qq.com] filtering create jsdom doc: http://news.qq.com/a/20111003/000027.htm (5345)
+Fri Oct 07 2011 20:41:39 GMT+0800 (CST) [urlopen] [DEBUG] [news.qq.com] http request url: http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:41:40 GMT+0800 (CST) [urlopen] [DEBUG] [news.qq.com] received content, 136458 B
+Fri Oct 07 2011 20:41:40 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] extract(http://news.qq.com/a/20111003/000027.htm)
+Fri Oct 07 2011 20:41:40 GMT+0800 (CST) [filter] [INFO] [news.qq.com] create Filter(http://news.qq.com/a/20111003/000027.htm)
+Fri Oct 07 2011 20:41:40 GMT+0800 (CST) [filter] [INFO] [news.qq.com] no pre-filters to apply
+Fri Oct 07 2011 20:41:40 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] callback from preFilter(136456):http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:41:40 GMT+0800 (CST) [ce] [DEBUG] [news.qq.com] callback from readability.parse(5306):http://news.qq.com/a/20111003/000027.htm
+Fri Oct 07 2011 20:41:40 GMT+0800 (CST) [filter] [INFO] [news.qq.com] filtering create jsdom doc: http://news.qq.com/a/20111003/000027.htm (5345)

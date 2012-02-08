@@ -1,0 +1,415 @@
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [cache] [INFO] [tech.sina.com.cn] create non-existing domain directory
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-02/18586138657.shtml
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-02/18176138609.shtml
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/d/2011-10-02/05336137665.shtml
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-02/08286137876.shtml
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-02/08306137880.shtml
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/d/2011-10-02/00356137300.shtml
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/t/2011-10-02/14456138387.shtml
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/t/2011-10-02/14156138365.shtml
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/t/2011-10-02/12526138266.shtml
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:35 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-02/13596138347.shtml
+Sun Oct 02 2011 21:35:36 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:36 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/d/2011-10-02/12386138253.shtml
+Sun Oct 02 2011 21:35:36 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:36 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-02/11126138174.shtml
+Sun Oct 02 2011 21:35:36 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:36 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-02/11116138168.shtml
+Sun Oct 02 2011 21:35:36 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:36 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-02/10586138140.shtml
+Sun Oct 02 2011 21:35:36 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:36 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/t/2011-10-02/10556138136.shtml
+Sun Oct 02 2011 21:35:36 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (undefined) file: ./cache/tech.sina.com.cn/7fc002b2c679493e4cc35a449bf1c22d26066c2d.json
+Sun Oct 02 2011 21:35:36 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (75377) file: ./cache/tech.sina.com.cn/7fc002b2c679493e4cc35a449bf1c22d26066c2d.raw
+Sun Oct 02 2011 21:35:36 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 75390 B
+Sun Oct 02 2011 21:35:37 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (undefined) file: ./cache/tech.sina.com.cn/652f9d59d1b25bdd6f1f58b6fa7d55c53c30cd43.json
+Sun Oct 02 2011 21:35:37 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (76494) file: ./cache/tech.sina.com.cn/652f9d59d1b25bdd6f1f58b6fa7d55c53c30cd43.raw
+Sun Oct 02 2011 21:35:37 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 76507 B
+Sun Oct 02 2011 21:35:37 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (undefined) file: ./cache/tech.sina.com.cn/e3b231f18fdd23635cfd82de30600c115b07af76.json
+Sun Oct 02 2011 21:35:37 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (77281) file: ./cache/tech.sina.com.cn/e3b231f18fdd23635cfd82de30600c115b07af76.raw
+Sun Oct 02 2011 21:35:37 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77294 B
+Sun Oct 02 2011 21:35:38 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (undefined) file: ./cache/tech.sina.com.cn/202f597a4b8a8b66d379fcf4d85abbe36e70fbd5.json
+Sun Oct 02 2011 21:35:38 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (75592) file: ./cache/tech.sina.com.cn/202f597a4b8a8b66d379fcf4d85abbe36e70fbd5.raw
+Sun Oct 02 2011 21:35:38 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 75605 B
+Sun Oct 02 2011 21:35:39 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (undefined) file: ./cache/tech.sina.com.cn/bafa3f0961cf818c602771e2ffed8bb83c62f853.json
+Sun Oct 02 2011 21:35:39 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (75776) file: ./cache/tech.sina.com.cn/bafa3f0961cf818c602771e2ffed8bb83c62f853.raw
+Sun Oct 02 2011 21:35:39 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 75789 B
+Sun Oct 02 2011 21:35:39 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:39 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-02/10336138092.shtml
+Sun Oct 02 2011 21:35:39 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:39 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-02/10256138087.shtml
+Sun Oct 02 2011 21:35:39 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:39 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-02/09206137963.shtml
+Sun Oct 02 2011 21:35:39 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:39 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/d/2011-10-02/09066137938.shtml
+Sun Oct 02 2011 21:35:39 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:39 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/d/2011-10-02/09096137943.shtml
+Sun Oct 02 2011 21:35:40 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (undefined) file: ./cache/tech.sina.com.cn/75e1b289dfd46375bd85f62c2a838aba438367e2.json
+Sun Oct 02 2011 21:35:40 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (75071) file: ./cache/tech.sina.com.cn/75e1b289dfd46375bd85f62c2a838aba438367e2.raw
+Sun Oct 02 2011 21:35:40 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 75084 B
+Sun Oct 02 2011 21:35:41 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (undefined) file: ./cache/tech.sina.com.cn/2962381fccc6121735c176148fd082f92c861bf3.json
+Sun Oct 02 2011 21:35:41 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (74969) file: ./cache/tech.sina.com.cn/2962381fccc6121735c176148fd082f92c861bf3.raw
+Sun Oct 02 2011 21:35:41 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 74982 B
+Sun Oct 02 2011 21:35:42 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:35:42 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/d/2011-10-02/08536137915.shtml
+Sun Oct 02 2011 21:35:42 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (undefined) file: ./cache/tech.sina.com.cn/18e4899055ce98f57e6d253afffae84a23a8e6b0.json
+Sun Oct 02 2011 21:35:42 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (74801) file: ./cache/tech.sina.com.cn/18e4899055ce98f57e6d253afffae84a23a8e6b0.raw
+Sun Oct 02 2011 21:35:42 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 74814 B
+Sun Oct 02 2011 21:35:42 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (undefined) file: ./cache/tech.sina.com.cn/8dfab7321fb720fde50626ed9273f71d1bd66b84.json
+Sun Oct 02 2011 21:35:42 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (74436) file: ./cache/tech.sina.com.cn/8dfab7321fb720fde50626ed9273f71d1bd66b84.raw
+Sun Oct 02 2011 21:35:42 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 74449 B
+Sun Oct 02 2011 21:35:45 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (undefined) file: ./cache/tech.sina.com.cn/b2bc85945e0638c7d62ecd7e2e245c68c0d330bc.json
+Sun Oct 02 2011 21:35:45 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (76891) file: ./cache/tech.sina.com.cn/b2bc85945e0638c7d62ecd7e2e245c68c0d330bc.raw
+Sun Oct 02 2011 21:35:45 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 76904 B
+Sun Oct 02 2011 21:35:45 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (undefined) file: ./cache/tech.sina.com.cn/69562a7bb8a34f0a098dd2e855cf56ad3f268897.json
+Sun Oct 02 2011 21:35:45 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (75769) file: ./cache/tech.sina.com.cn/69562a7bb8a34f0a098dd2e855cf56ad3f268897.raw
+Sun Oct 02 2011 21:35:45 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 75782 B
+Sun Oct 02 2011 21:35:46 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (undefined) file: ./cache/tech.sina.com.cn/928268bb7f27306723ac3efbbcd1d640f3cf206a.json
+Sun Oct 02 2011 21:35:46 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (74909) file: ./cache/tech.sina.com.cn/928268bb7f27306723ac3efbbcd1d640f3cf206a.raw
+Sun Oct 02 2011 21:35:46 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 74922 B
+Sun Oct 02 2011 21:35:48 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (undefined) file: ./cache/tech.sina.com.cn/e15911d9d3fc9b6e480c9f68c70c81b4a9dc7dcc.json
+Sun Oct 02 2011 21:35:48 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (76612) file: ./cache/tech.sina.com.cn/e15911d9d3fc9b6e480c9f68c70c81b4a9dc7dcc.raw
+Sun Oct 02 2011 21:35:48 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 76625 B
+Sun Oct 02 2011 21:35:48 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (undefined) file: ./cache/tech.sina.com.cn/f76f45e3d21c59ca52c90bfd0da32030216d5680.json
+Sun Oct 02 2011 21:35:48 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (76754) file: ./cache/tech.sina.com.cn/f76f45e3d21c59ca52c90bfd0da32030216d5680.raw
+Sun Oct 02 2011 21:35:48 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 76767 B
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/it/2011-10-02/18586138657.shtml
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/652f9d59d1b25bdd6f1f58b6fa7d55c53c30cd43.raw
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/652f9d59d1b25bdd6f1f58b6fa7d55c53c30cd43.json
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/08286137876.shtml
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/202f597a4b8a8b66d379fcf4d85abbe36e70fbd5.raw
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/202f597a4b8a8b66d379fcf4d85abbe36e70fbd5.json
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/18176138609.shtml
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/e3b231f18fdd23635cfd82de30600c115b07af76.raw
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/e3b231f18fdd23635cfd82de30600c115b07af76.json
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/08306137880.shtml
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/bafa3f0961cf818c602771e2ffed8bb83c62f853.raw
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/bafa3f0961cf818c602771e2ffed8bb83c62f853.json
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/d/2011-10-02/05336137665.shtml
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/7fc002b2c679493e4cc35a449bf1c22d26066c2d.raw
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/7fc002b2c679493e4cc35a449bf1c22d26066c2d.json
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/d/2011-10-02/00356137300.shtml
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/8dfab7321fb720fde50626ed9273f71d1bd66b84.raw
+Sun Oct 02 2011 21:42:06 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/8dfab7321fb720fde50626ed9273f71d1bd66b84.json
+Sun Oct 02 2011 21:42:07 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:07 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/t/2011-10-02/14156138365.shtml
+Sun Oct 02 2011 21:42:07 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/18e4899055ce98f57e6d253afffae84a23a8e6b0.raw
+Sun Oct 02 2011 21:42:07 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/18e4899055ce98f57e6d253afffae84a23a8e6b0.json
+Sun Oct 02 2011 21:42:07 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:07 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/13596138347.shtml
+Sun Oct 02 2011 21:42:07 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/b2bc85945e0638c7d62ecd7e2e245c68c0d330bc.raw
+Sun Oct 02 2011 21:42:07 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/b2bc85945e0638c7d62ecd7e2e245c68c0d330bc.json
+Sun Oct 02 2011 21:42:08 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:08 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/t/2011-10-02/12526138266.shtml
+Sun Oct 02 2011 21:42:08 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/2962381fccc6121735c176148fd082f92c861bf3.raw
+Sun Oct 02 2011 21:42:08 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/2962381fccc6121735c176148fd082f92c861bf3.json
+Sun Oct 02 2011 21:42:08 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:08 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/t/2011-10-02/14456138387.shtml
+Sun Oct 02 2011 21:42:08 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/75e1b289dfd46375bd85f62c2a838aba438367e2.raw
+Sun Oct 02 2011 21:42:08 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/75e1b289dfd46375bd85f62c2a838aba438367e2.json
+Sun Oct 02 2011 21:42:09 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:09 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/d/2011-10-02/12386138253.shtml
+Sun Oct 02 2011 21:42:09 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/928268bb7f27306723ac3efbbcd1d640f3cf206a.raw
+Sun Oct 02 2011 21:42:09 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/928268bb7f27306723ac3efbbcd1d640f3cf206a.json
+Sun Oct 02 2011 21:42:10 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:10 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/11126138174.shtml
+Sun Oct 02 2011 21:42:10 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/f76f45e3d21c59ca52c90bfd0da32030216d5680.raw
+Sun Oct 02 2011 21:42:10 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/f76f45e3d21c59ca52c90bfd0da32030216d5680.json
+Sun Oct 02 2011 21:42:10 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:10 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/t/2011-10-02/10556138136.shtml
+Sun Oct 02 2011 21:42:10 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:10 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/10586138140.shtml
+Sun Oct 02 2011 21:42:10 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/e15911d9d3fc9b6e480c9f68c70c81b4a9dc7dcc.raw
+Sun Oct 02 2011 21:42:10 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/e15911d9d3fc9b6e480c9f68c70c81b4a9dc7dcc.json
+Sun Oct 02 2011 21:42:11 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:11 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-02/10336138092.shtml
+Sun Oct 02 2011 21:42:11 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:11 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/11116138168.shtml
+Sun Oct 02 2011 21:42:11 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/69562a7bb8a34f0a098dd2e855cf56ad3f268897.raw
+Sun Oct 02 2011 21:42:11 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/69562a7bb8a34f0a098dd2e855cf56ad3f268897.json
+Sun Oct 02 2011 21:42:13 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:13 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-02/10256138087.shtml
+Sun Oct 02 2011 21:42:13 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (undefined) file: ./cache/tech.sina.com.cn/224f58790ed2d22f05d40f6092ed506f2c7fbe0f.json
+Sun Oct 02 2011 21:42:13 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (75102) file: ./cache/tech.sina.com.cn/224f58790ed2d22f05d40f6092ed506f2c7fbe0f.raw
+Sun Oct 02 2011 21:42:13 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 75115 B
+Sun Oct 02 2011 21:42:13 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:13 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/d/2011-10-02/08536137915.shtml
+Sun Oct 02 2011 21:42:13 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:13 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/d/2011-10-02/09066137938.shtml
+Sun Oct 02 2011 21:42:13 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:13 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/d/2011-10-02/09096137943.shtml
+Sun Oct 02 2011 21:42:13 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:42:13 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-02/09206137963.shtml
+Sun Oct 02 2011 21:42:13 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (undefined) file: ./cache/tech.sina.com.cn/f4242f5714bd1e5b92957eb467aa46a3dbf62328.json
+Sun Oct 02 2011 21:42:13 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (76232) file: ./cache/tech.sina.com.cn/f4242f5714bd1e5b92957eb467aa46a3dbf62328.raw
+Sun Oct 02 2011 21:42:13 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 76245 B
+Sun Oct 02 2011 21:43:29 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:43:29 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/it/2011-10-02/18586138657.shtml
+Sun Oct 02 2011 21:43:29 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/652f9d59d1b25bdd6f1f58b6fa7d55c53c30cd43.raw
+Sun Oct 02 2011 21:43:29 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/652f9d59d1b25bdd6f1f58b6fa7d55c53c30cd43.json
+Sun Oct 02 2011 21:43:29 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:43:29 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/08306137880.shtml
+Sun Oct 02 2011 21:43:29 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/bafa3f0961cf818c602771e2ffed8bb83c62f853.raw
+Sun Oct 02 2011 21:43:29 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/bafa3f0961cf818c602771e2ffed8bb83c62f853.json
+Sun Oct 02 2011 21:43:29 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:43:29 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/18176138609.shtml
+Sun Oct 02 2011 21:43:29 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/e3b231f18fdd23635cfd82de30600c115b07af76.raw
+Sun Oct 02 2011 21:43:29 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/e3b231f18fdd23635cfd82de30600c115b07af76.json
+Sun Oct 02 2011 21:43:29 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:43:29 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/d/2011-10-02/05336137665.shtml
+Sun Oct 02 2011 21:43:29 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/7fc002b2c679493e4cc35a449bf1c22d26066c2d.raw
+Sun Oct 02 2011 21:43:29 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/7fc002b2c679493e4cc35a449bf1c22d26066c2d.json
+Sun Oct 02 2011 21:43:29 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:43:29 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/08286137876.shtml
+Sun Oct 02 2011 21:43:29 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/202f597a4b8a8b66d379fcf4d85abbe36e70fbd5.raw
+Sun Oct 02 2011 21:43:29 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/202f597a4b8a8b66d379fcf4d85abbe36e70fbd5.json
+Sun Oct 02 2011 21:43:30 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:43:30 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/d/2011-10-02/00356137300.shtml
+Sun Oct 02 2011 21:43:30 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/8dfab7321fb720fde50626ed9273f71d1bd66b84.raw
+Sun Oct 02 2011 21:43:30 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/8dfab7321fb720fde50626ed9273f71d1bd66b84.json
+Sun Oct 02 2011 21:43:31 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:43:31 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/t/2011-10-02/14456138387.shtml
+Sun Oct 02 2011 21:43:31 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/75e1b289dfd46375bd85f62c2a838aba438367e2.raw
+Sun Oct 02 2011 21:43:31 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/75e1b289dfd46375bd85f62c2a838aba438367e2.json
+Sun Oct 02 2011 21:43:31 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:43:31 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/13596138347.shtml
+Sun Oct 02 2011 21:43:31 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/b2bc85945e0638c7d62ecd7e2e245c68c0d330bc.raw
+Sun Oct 02 2011 21:43:31 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/b2bc85945e0638c7d62ecd7e2e245c68c0d330bc.json
+Sun Oct 02 2011 21:43:32 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:43:32 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/t/2011-10-02/12526138266.shtml
+Sun Oct 02 2011 21:43:32 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/2962381fccc6121735c176148fd082f92c861bf3.raw
+Sun Oct 02 2011 21:43:32 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/2962381fccc6121735c176148fd082f92c861bf3.json
+Sun Oct 02 2011 21:43:32 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:43:32 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/t/2011-10-02/14156138365.shtml
+Sun Oct 02 2011 21:43:32 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/18e4899055ce98f57e6d253afffae84a23a8e6b0.raw
+Sun Oct 02 2011 21:43:32 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/18e4899055ce98f57e6d253afffae84a23a8e6b0.json
+Sun Oct 02 2011 21:50:16 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:50:16 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/d/2011-10-02/12386138253.shtml
+Sun Oct 02 2011 21:50:16 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/928268bb7f27306723ac3efbbcd1d640f3cf206a.raw
+Sun Oct 02 2011 21:50:16 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/928268bb7f27306723ac3efbbcd1d640f3cf206a.json
+Sun Oct 02 2011 21:50:17 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:50:17 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/t/2011-10-02/10556138136.shtml
+Sun Oct 02 2011 21:50:17 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/224f58790ed2d22f05d40f6092ed506f2c7fbe0f.raw
+Sun Oct 02 2011 21:50:17 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/224f58790ed2d22f05d40f6092ed506f2c7fbe0f.json
+Sun Oct 02 2011 21:50:17 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:50:17 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/11116138168.shtml
+Sun Oct 02 2011 21:50:17 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/69562a7bb8a34f0a098dd2e855cf56ad3f268897.raw
+Sun Oct 02 2011 21:50:17 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/69562a7bb8a34f0a098dd2e855cf56ad3f268897.json
+Sun Oct 02 2011 21:50:18 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:50:18 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/11126138174.shtml
+Sun Oct 02 2011 21:50:18 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/f76f45e3d21c59ca52c90bfd0da32030216d5680.raw
+Sun Oct 02 2011 21:50:18 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/f76f45e3d21c59ca52c90bfd0da32030216d5680.json
+Sun Oct 02 2011 21:50:18 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Sun Oct 02 2011 21:50:18 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/10586138140.shtml
+Sun Oct 02 2011 21:50:18 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/e15911d9d3fc9b6e480c9f68c70c81b4a9dc7dcc.raw
+Sun Oct 02 2011 21:50:18 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/e15911d9d3fc9b6e480c9f68c70c81b4a9dc7dcc.json
+Mon Oct 03 2011 00:28:00 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Mon Oct 03 2011 00:28:00 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml
+Mon Oct 03 2011 00:28:00 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (undefined) file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.json
+Mon Oct 03 2011 00:28:00 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (76387) file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.raw
+Mon Oct 03 2011 00:28:00 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 76400 B
+Mon Oct 03 2011 00:28:00 GMT+0800 (CST) [ce] [DEBUG] [tech.sina.com.cn] extract(http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml)
+Mon Oct 03 2011 00:28:00 GMT+0800 (CST) [filter] [INFO] [tech.sina.com.cn] create Filter(http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml)
+Mon Oct 03 2011 00:28:00 GMT+0800 (CST) [filter] [INFO] [tech.sina.com.cn] no pre-filters to apply
+Mon Oct 03 2011 00:28:00 GMT+0800 (CST) [ce] [DEBUG] [tech.sina.com.cn] callback from preFilter(76387):http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml
+Mon Oct 03 2011 00:28:01 GMT+0800 (CST) [ce] [DEBUG] [tech.sina.com.cn] callback from readability.parse(2335):http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml
+Mon Oct 03 2011 00:28:01 GMT+0800 (CST) [filter] [INFO] [tech.sina.com.cn] filtering create jsdom doc: http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml (2374)
+Mon Oct 03 2011 00:28:02 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] write cache content (2336) file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.rdby
+Mon Oct 03 2011 00:31:01 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Mon Oct 03 2011 00:31:01 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml
+Mon Oct 03 2011 00:31:01 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.raw
+Mon Oct 03 2011 00:31:01 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.json
+Mon Oct 03 2011 00:31:01 GMT+0800 (CST) [ce] [DEBUG] [tech.sina.com.cn] extract(http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml)
+Mon Oct 03 2011 00:31:01 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.rdby
+Mon Oct 03 2011 00:32:44 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Mon Oct 03 2011 00:32:44 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml
+Mon Oct 03 2011 00:32:44 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.raw
+Mon Oct 03 2011 00:32:44 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.json
+Mon Oct 03 2011 00:32:44 GMT+0800 (CST) [ce] [DEBUG] [tech.sina.com.cn] extract(http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml)
+Mon Oct 03 2011 00:32:44 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.rdby
+Mon Oct 03 2011 00:35:05 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Mon Oct 03 2011 00:35:05 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml
+Mon Oct 03 2011 00:35:05 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.raw
+Mon Oct 03 2011 00:35:05 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.json
+Mon Oct 03 2011 00:35:05 GMT+0800 (CST) [ce] [DEBUG] [tech.sina.com.cn] extract(http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml)
+Mon Oct 03 2011 00:35:05 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.rdby
+Mon Oct 03 2011 00:35:53 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Mon Oct 03 2011 00:35:53 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml
+Mon Oct 03 2011 00:35:53 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.raw
+Mon Oct 03 2011 00:35:53 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.json
+Mon Oct 03 2011 00:35:53 GMT+0800 (CST) [ce] [DEBUG] [tech.sina.com.cn] extract(http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml)
+Mon Oct 03 2011 00:35:53 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.rdby
+Mon Oct 03 2011 00:37:40 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Mon Oct 03 2011 00:37:40 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml
+Mon Oct 03 2011 00:37:40 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.raw
+Mon Oct 03 2011 00:37:40 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.json
+Mon Oct 03 2011 00:37:40 GMT+0800 (CST) [ce] [DEBUG] [tech.sina.com.cn] extract(http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml)
+Mon Oct 03 2011 00:37:40 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.rdby
+Mon Oct 03 2011 00:39:35 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Mon Oct 03 2011 00:39:35 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml
+Mon Oct 03 2011 00:39:35 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.raw
+Mon Oct 03 2011 00:39:35 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.json
+Mon Oct 03 2011 00:39:35 GMT+0800 (CST) [ce] [DEBUG] [tech.sina.com.cn] extract(http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml)
+Mon Oct 03 2011 00:39:35 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.rdby
+Mon Oct 03 2011 00:40:12 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Mon Oct 03 2011 00:40:12 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml
+Mon Oct 03 2011 00:40:12 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.raw
+Mon Oct 03 2011 00:40:12 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.json
+Mon Oct 03 2011 00:40:12 GMT+0800 (CST) [ce] [DEBUG] [tech.sina.com.cn] extract(http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml)
+Mon Oct 03 2011 00:40:12 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.rdby
+Mon Oct 03 2011 00:41:07 GMT+0800 (CST) [urlopen] [INFO] [tech.sina.com.cn] using keep-alive connection
+Mon Oct 03 2011 00:41:07 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] use url cache, force_cache is set: http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml
+Mon Oct 03 2011 00:41:07 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.raw
+Mon Oct 03 2011 00:41:07 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.json
+Mon Oct 03 2011 00:41:07 GMT+0800 (CST) [ce] [DEBUG] [tech.sina.com.cn] extract(http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml)
+Mon Oct 03 2011 00:41:07 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.rdby
+Mon Oct 03 2011 14:17:12 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml
+Mon Oct 03 2011 14:17:13 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 83851 B
+Mon Oct 03 2011 14:17:13 GMT+0800 (CST) [ce] [DEBUG] [tech.sina.com.cn] extract(http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml)
+Mon Oct 03 2011 14:17:13 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.rdby
+Mon Oct 03 2011 14:17:38 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml
+Mon Oct 03 2011 14:17:39 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 83851 B
+Mon Oct 03 2011 14:17:39 GMT+0800 (CST) [ce] [DEBUG] [tech.sina.com.cn] extract(http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml)
+Mon Oct 03 2011 14:17:39 GMT+0800 (CST) [cache] [DEBUG] [tech.sina.com.cn] read cache file: ./cache/tech.sina.com.cn/87ef4b4de0147c0c3fbfc115d6d96702fcb735ad.rdby
+Fri Oct 07 2011 20:25:02 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml
+Fri Oct 07 2011 20:25:03 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 83851 B
+Fri Oct 07 2011 20:25:03 GMT+0800 (CST) [ce] [DEBUG] [tech.sina.com.cn] extract(http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml)
+Fri Oct 07 2011 20:25:03 GMT+0800 (CST) [filter] [INFO] [tech.sina.com.cn] create Filter(http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml)
+Fri Oct 07 2011 20:25:03 GMT+0800 (CST) [filter] [INFO] [tech.sina.com.cn] no pre-filters to apply
+Fri Oct 07 2011 20:25:03 GMT+0800 (CST) [ce] [DEBUG] [tech.sina.com.cn] callback from preFilter(83838):http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml
+Fri Oct 07 2011 20:25:03 GMT+0800 (CST) [ce] [DEBUG] [tech.sina.com.cn] callback from readability.parse(8173):http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml
+Fri Oct 07 2011 20:25:03 GMT+0800 (CST) [filter] [INFO] [tech.sina.com.cn] filtering create jsdom doc: http://tech.sina.com.cn/i/2011-10-02/18176138609_2.shtml (8212)
+Fri Oct 07 2011 22:26:25 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-07/21156145436.shtml
+Fri Oct 07 2011 22:26:25 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-07/21466145474.shtml
+Fri Oct 07 2011 22:26:26 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77605 B
+Fri Oct 07 2011 22:26:27 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 78496 B
+Fri Oct 07 2011 22:33:56 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/t/2011-10-07/16536145260.shtml
+Fri Oct 07 2011 22:33:56 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/21316145452.shtml
+Fri Oct 07 2011 22:33:56 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/18236145329.shtml
+Fri Oct 07 2011 22:33:56 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-07/21466145474.shtml
+Fri Oct 07 2011 22:33:56 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/16586145264.shtml
+Fri Oct 07 2011 22:33:58 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/16246145237.shtml
+Fri Oct 07 2011 22:33:58 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/15386145208.shtml
+Fri Oct 07 2011 22:33:58 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/14286145167.shtml
+Fri Oct 07 2011 22:33:58 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/16406145246.shtml
+Fri Oct 07 2011 22:33:58 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/t/2011-10-07/13536145146.shtml
+Fri Oct 07 2011 22:33:58 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 78787 B
+Fri Oct 07 2011 22:33:58 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77605 B
+Fri Oct 07 2011 22:33:59 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77985 B
+Fri Oct 07 2011 22:33:59 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/13326145129.shtml
+Fri Oct 07 2011 22:33:59 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/12126145062.shtml
+Fri Oct 07 2011 22:33:59 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/12196145067.shtml
+Fri Oct 07 2011 22:33:59 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/t/2011-10-07/11586145056.shtml
+Fri Oct 07 2011 22:34:00 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77144 B
+Fri Oct 07 2011 22:34:00 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 79803 B
+Fri Oct 07 2011 22:34:02 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77953 B
+Fri Oct 07 2011 22:34:02 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-07/21156145436.shtml
+Fri Oct 07 2011 22:34:02 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/19006145352.shtml
+Fri Oct 07 2011 22:34:02 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/17476145303.shtml
+Fri Oct 07 2011 22:34:02 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/21096145431.shtml
+Fri Oct 07 2011 22:34:02 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77943 B
+Fri Oct 07 2011 22:34:03 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77798 B
+Fri Oct 07 2011 22:34:04 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 78592 B
+Fri Oct 07 2011 22:34:05 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 85954 B
+Fri Oct 07 2011 22:34:07 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/11376145033.shtml
+Fri Oct 07 2011 22:34:07 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-07/17056145270.shtml
+Fri Oct 07 2011 22:34:07 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/d/2011-10-07/16326145243.shtml
+Fri Oct 07 2011 22:34:48 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/17376145296.shtml
+Fri Oct 07 2011 22:34:48 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-07/15076145184.shtml
+Fri Oct 07 2011 22:34:48 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/t/2011-10-07/17466145302.shtml
+Fri Oct 07 2011 22:34:48 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 79161 B
+Fri Oct 07 2011 22:34:48 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 80860 B
+Fri Oct 07 2011 22:34:48 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-07/14396145173.shtml
+Fri Oct 07 2011 22:34:48 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/t/2011-10-07/13146145104.shtml
+Fri Oct 07 2011 22:34:48 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 78614 B
+Fri Oct 07 2011 22:34:49 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 78816 B
+Fri Oct 07 2011 22:34:51 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/t/2011-10-07/10556144965.shtml
+Fri Oct 07 2011 22:34:51 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/11206145021.shtml
+Fri Oct 07 2011 22:34:51 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/t/2011-10-07/10456144955.shtml
+Fri Oct 07 2011 22:34:52 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/09586144881.shtml
+Fri Oct 07 2011 22:34:53 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 79091 B
+Fri Oct 07 2011 22:34:53 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 79886 B
+Fri Oct 07 2011 22:34:54 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 79265 B
+Fri Oct 07 2011 22:34:55 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 78946 B
+Fri Oct 07 2011 22:34:55 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 79763 B
+Fri Oct 07 2011 22:34:59 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77553 B
+Fri Oct 07 2011 22:35:01 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77345 B
+Fri Oct 07 2011 22:35:01 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 78470 B
+Fri Oct 07 2011 22:35:02 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 78694 B
+Fri Oct 07 2011 22:35:04 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77563 B
+Fri Oct 07 2011 22:35:05 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77273 B
+Fri Oct 07 2011 22:35:07 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77986 B
+Fri Oct 07 2011 22:40:35 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/19006145352.shtml
+Fri Oct 07 2011 22:40:35 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/21096145431.shtml
+Fri Oct 07 2011 22:40:35 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-07/21156145436.shtml
+Fri Oct 07 2011 22:40:36 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/17476145303.shtml
+Fri Oct 07 2011 22:40:36 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/t/2011-10-07/17466145302.shtml
+Fri Oct 07 2011 22:40:36 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/17376145296.shtml
+Fri Oct 07 2011 22:40:36 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/d/2011-10-07/16326145243.shtml
+Fri Oct 07 2011 22:40:38 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-07/17056145270.shtml
+Fri Oct 07 2011 22:40:38 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-07/15076145184.shtml
+Fri Oct 07 2011 22:40:38 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-07/14396145173.shtml
+Fri Oct 07 2011 22:40:38 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/t/2011-10-07/13146145104.shtml
+Fri Oct 07 2011 22:40:38 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/11206145021.shtml
+Fri Oct 07 2011 22:40:38 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 78496 B
+Fri Oct 07 2011 22:40:38 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 79091 B
+Fri Oct 07 2011 22:40:38 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 79886 B
+Fri Oct 07 2011 22:40:40 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/t/2011-10-07/10556144965.shtml
+Fri Oct 07 2011 22:40:40 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/09586144881.shtml
+Fri Oct 07 2011 22:40:40 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/t/2011-10-07/10456144955.shtml
+Fri Oct 07 2011 22:40:40 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/i/2011-10-07/21466145474.shtml
+Fri Oct 07 2011 22:40:40 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/21316145452.shtml
+Fri Oct 07 2011 22:40:40 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77273 B
+Fri Oct 07 2011 22:40:41 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 79763 B
+Fri Oct 07 2011 22:40:42 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77553 B
+Fri Oct 07 2011 22:40:42 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77345 B
+Fri Oct 07 2011 22:40:43 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 78946 B
+Fri Oct 07 2011 22:40:43 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/16246145237.shtml
+Fri Oct 07 2011 22:40:43 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/t/2011-10-07/16536145260.shtml
+Fri Oct 07 2011 22:40:43 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/18236145329.shtml
+Fri Oct 07 2011 22:40:43 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/16406145246.shtml
+Fri Oct 07 2011 22:40:43 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/16586145264.shtml
+Fri Oct 07 2011 22:40:45 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 78470 B
+Fri Oct 07 2011 22:40:45 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 78694 B
+Fri Oct 07 2011 22:40:46 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 78131 B
+Fri Oct 07 2011 22:40:46 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/12196145067.shtml
+Fri Oct 07 2011 22:40:46 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/t/2011-10-07/13536145146.shtml
+Fri Oct 07 2011 22:40:46 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/15386145208.shtml
+Fri Oct 07 2011 22:40:46 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/14286145167.shtml
+Fri Oct 07 2011 22:40:46 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/13326145129.shtml
+Fri Oct 07 2011 22:40:46 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77563 B
+Fri Oct 07 2011 22:40:49 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77605 B
+Fri Oct 07 2011 22:40:49 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/t/2011-10-07/11586145056.shtml
+Fri Oct 07 2011 22:40:49 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/12126145062.shtml
+Fri Oct 07 2011 22:40:49 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] http request url: http://tech.sina.com.cn/it/2011-10-07/11376145033.shtml
+Fri Oct 07 2011 22:40:49 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77037 B
+Fri Oct 07 2011 22:40:50 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 78414 B
+Fri Oct 07 2011 22:40:50 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77986 B
+Fri Oct 07 2011 22:42:06 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 78787 B
+Fri Oct 07 2011 22:42:09 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77985 B
+Fri Oct 07 2011 22:42:09 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77144 B
+Fri Oct 07 2011 22:42:10 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 85954 B
+Fri Oct 07 2011 22:42:13 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 79803 B
+Fri Oct 07 2011 22:42:19 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 79161 B
+Fri Oct 07 2011 22:42:21 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 78592 B
+Fri Oct 07 2011 22:42:21 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 80860 B
+Fri Oct 07 2011 22:42:22 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77943 B
+Fri Oct 07 2011 22:42:24 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 77798 B
+Fri Oct 07 2011 22:42:24 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 78614 B
+Fri Oct 07 2011 22:42:26 GMT+0800 (CST) [urlopen] [DEBUG] [tech.sina.com.cn] received content, 79265 B

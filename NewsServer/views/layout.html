@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<style type="text/css">
+	.right_side{float:right;width:310px}
+	.left_side{float:left;width:300px;margin:30px}
+	.infobox{ width:90%;table-layout:fixed;margin-bottom:20px}
+	.bd {word-wrap:break-word; padding: 4x 9px;background:#FFF6ED;border:1px solid #FAEFE3;border-width:0 1px; border-image:initial;}
+	.userface {float:left;margin:1px 10px 8px 0;}
+	.user-info{ color:666;}
+	.sep-line {clear:both; font-size:0;border-bottom:1px solid #F5E9DB;margin:5px;overflow:hidden;}
+	.color:#666;word-wrap:break-word;overflow:hidden;
+	.ex2 {clear:both;height:5px;margin-left:5px;}
+	</style>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title><%= config.site_name %></title>
+<link href="/styles/reset.css" rel="stylesheet" type="text/css" />
+<link href="/styles/index/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div class="page">
+    <div class="header box">
+        <h1><a href="/"><%= config.site_name %></a></h1>
+    </div>
+<!--content-->
+    <div class="main box">
+
+    <%- body %>
+    
+    </div>
+	<div class="foot">
+		        Copyright&copy; <%= config.site_name %>
+		        <a href="http://cnodejs.org/">CNode</a>
+		        <br />
+		        修改自 <a href="http://simple-is-better.com/news/309">simple-todo: 一个简易的 todo 程序 - web.py 中文教程</a>
+		        from <a href="http://simple-is-better.com/">Python.cn(news, jobs)</a>
+	</div>
+</div>
+<!--left side user info-->
+<div class="left_side">
+<div class="infobox">
+	<div class="ex1"><span></span></div>
+	<div class="bd">
+		<img src="/images/boy.png" class="userface" alt>
+		<div class="user-info">北京</div>
+		<div class="sep-line"></div>
+		<div class="user-intro">（自我介绍）</div>
+	<div>
+	<div class="ex2"><div>
+</div>
+</div>
+<!--right side user info-->  
+	<div>
+	</div>
+<!--footer-->
+</body>
+</html>

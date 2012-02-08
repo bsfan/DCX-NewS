@@ -1,0 +1,25 @@
+Fri Oct 07 2011 20:46:20 GMT+0800 (CST) [urlopen] [DEBUG] [news.163.com] http request url: http://news.163.com/11/1007/09/7FOKDV2U00011229.html
+Fri Oct 07 2011 20:46:20 GMT+0800 (CST) [urlopen] [DEBUG] [news.163.com] received content, 80516 B
+Fri Oct 07 2011 20:46:20 GMT+0800 (CST) [ce] [DEBUG] [news.163.com] extract(http://news.163.com/11/1007/09/7FOKDV2U00011229.html)
+Fri Oct 07 2011 20:46:20 GMT+0800 (CST) [cache] [INFO] [news.163.com] create non-existing domain directory
+Fri Oct 07 2011 20:46:20 GMT+0800 (CST) [filter] [INFO] [news.163.com] create Filter(http://news.163.com/11/1007/09/7FOKDV2U00011229.html)
+Fri Oct 07 2011 20:46:20 GMT+0800 (CST) [filter] [INFO] [news.163.com] no pre-filters to apply
+Fri Oct 07 2011 20:46:20 GMT+0800 (CST) [ce] [DEBUG] [news.163.com] callback from preFilter(80511):http://news.163.com/11/1007/09/7FOKDV2U00011229.html
+Fri Oct 07 2011 20:46:21 GMT+0800 (CST) [ce] [DEBUG] [news.163.com] callback from readability.parse(1890):http://news.163.com/11/1007/09/7FOKDV2U00011229.html
+Fri Oct 07 2011 20:46:21 GMT+0800 (CST) [filter] [INFO] [news.163.com] filtering create jsdom doc: http://news.163.com/11/1007/09/7FOKDV2U00011229.html (1929)
+Fri Oct 07 2011 20:49:35 GMT+0800 (CST) [urlopen] [DEBUG] [news.163.com] http request url: http://news.163.com/11/1007/09/7FOKDV2U00011229.html
+Fri Oct 07 2011 20:49:37 GMT+0800 (CST) [urlopen] [DEBUG] [news.163.com] received content, 80516 B
+Fri Oct 07 2011 20:49:37 GMT+0800 (CST) [ce] [DEBUG] [news.163.com] extract(http://news.163.com/11/1007/09/7FOKDV2U00011229.html)
+Fri Oct 07 2011 20:49:37 GMT+0800 (CST) [filter] [INFO] [news.163.com] create Filter(http://news.163.com/11/1007/09/7FOKDV2U00011229.html)
+Fri Oct 07 2011 20:49:37 GMT+0800 (CST) [filter] [INFO] [news.163.com] no pre-filters to apply
+Fri Oct 07 2011 20:49:37 GMT+0800 (CST) [ce] [DEBUG] [news.163.com] callback from preFilter(80511):http://news.163.com/11/1007/09/7FOKDV2U00011229.html
+Fri Oct 07 2011 20:49:37 GMT+0800 (CST) [ce] [DEBUG] [news.163.com] callback from readability.parse(1890):http://news.163.com/11/1007/09/7FOKDV2U00011229.html
+Fri Oct 07 2011 20:49:37 GMT+0800 (CST) [filter] [INFO] [news.163.com] filtering create jsdom doc: http://news.163.com/11/1007/09/7FOKDV2U00011229.html (1929)
+Fri Oct 07 2011 20:53:06 GMT+0800 (CST) [urlopen] [DEBUG] [news.163.com] http request url: http://news.163.com/11/1007/09/7FOKDV2U00011229.html
+Fri Oct 07 2011 20:53:16 GMT+0800 (CST) [urlopen] [DEBUG] [news.163.com] received content, 80516 B
+Fri Oct 07 2011 20:53:16 GMT+0800 (CST) [ce] [DEBUG] [news.163.com] extract(http://news.163.com/11/1007/09/7FOKDV2U00011229.html)
+Fri Oct 07 2011 20:53:16 GMT+0800 (CST) [filter] [INFO] [news.163.com] create Filter(http://news.163.com/11/1007/09/7FOKDV2U00011229.html)
+Fri Oct 07 2011 20:53:16 GMT+0800 (CST) [filter] [INFO] [news.163.com] no pre-filters to apply
+Fri Oct 07 2011 20:54:42 GMT+0800 (CST) [ce] [DEBUG] [news.163.com] callback from preFilter(80511):http://news.163.com/11/1007/09/7FOKDV2U00011229.html
+Fri Oct 07 2011 20:57:45 GMT+0800 (CST) [ce] [DEBUG] [news.163.com] callback from readability.parse(1890):http://news.163.com/11/1007/09/7FOKDV2U00011229.html
+Fri Oct 07 2011 20:58:07 GMT+0800 (CST) [filter] [INFO] [news.163.com] filtering create jsdom doc: http://news.163.com/11/1007/09/7FOKDV2U00011229.html (1929)

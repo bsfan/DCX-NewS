@@ -1,0 +1,10 @@
+Mon Oct 03 2011 14:10:50 GMT+0800 (CST) [urlopen] [DEBUG] [www.laonanren.com] http request url: http://www.laonanren.com/news/2011-10/43847.htm
+Mon Oct 03 2011 14:10:50 GMT+0800 (CST) [urlopen] [DEBUG] [www.laonanren.com] received content, 17125 B
+Mon Oct 03 2011 14:10:50 GMT+0800 (CST) [ce] [DEBUG] [www.laonanren.com] extract(http://www.laonanren.com/news/2011-10/43847.htm)
+Mon Oct 03 2011 14:10:50 GMT+0800 (CST) [cache] [INFO] [www.laonanren.com] create non-existing domain directory
+Mon Oct 03 2011 14:10:50 GMT+0800 (CST) [filter] [INFO] [www.laonanren.com] create Filter(http://www.laonanren.com/news/2011-10/43847.htm)
+Mon Oct 03 2011 14:10:50 GMT+0800 (CST) [filter] [INFO] [www.laonanren.com] no pre-filters to apply
+Mon Oct 03 2011 14:10:50 GMT+0800 (CST) [ce] [DEBUG] [www.laonanren.com] callback from preFilter(17122):http://www.laonanren.com/news/2011-10/43847.htm
+Mon Oct 03 2011 14:10:51 GMT+0800 (CST) [ce] [DEBUG] [www.laonanren.com] callback from readability.parse(306):http://www.laonanren.com/news/2011-10/43847.htm
+Mon Oct 03 2011 14:10:51 GMT+0800 (CST) [filter] [INFO] [www.laonanren.com] filtering create jsdom doc: http://www.laonanren.com/news/2011-10/43847.htm (345)
+Mon Oct 03 2011 14:10:53 GMT+0800 (CST) [cache] [DEBUG] [www.laonanren.com] write cache content (307) file: ./cache/www.laonanren.com/e9d8004f135b334b1ae0b5a6ffe46496a0a07e65.rdby

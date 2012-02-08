@@ -1,0 +1,79 @@
+Mon Oct 03 2011 14:28:08 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 14:28:08 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] received content, 31134 B
+Mon Oct 03 2011 14:28:08 GMT+0800 (CST) [ce] [DEBUG] [news.sohu.com] extract(http://news.sohu.com/20111003/n321228696.shtml)
+Mon Oct 03 2011 14:28:08 GMT+0800 (CST) [cache] [INFO] [news.sohu.com] create non-existing domain directory
+Mon Oct 03 2011 14:28:08 GMT+0800 (CST) [filter] [INFO] [news.sohu.com] create Filter(http://news.sohu.com/20111003/n321228696.shtml)
+Mon Oct 03 2011 14:28:08 GMT+0800 (CST) [filter] [INFO] [news.sohu.com] no pre-filters to apply
+Mon Oct 03 2011 14:28:08 GMT+0800 (CST) [ce] [DEBUG] [news.sohu.com] callback from preFilter(31134):http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 14:28:08 GMT+0800 (CST) [ce] [DEBUG] [news.sohu.com] callback from readability.parse(0):http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 14:28:08 GMT+0800 (CST) [filter] [INFO] [news.sohu.com] filtering create jsdom doc: http://news.sohu.com/20111003/n321228696.shtml (39)
+Mon Oct 03 2011 14:28:10 GMT+0800 (CST) [cache] [DEBUG] [news.sohu.com] write cache content (1) file: ./cache/news.sohu.com/f76735a7fe44fb0bb1dcc67e8377b0e53872759d.rdby
+Mon Oct 03 2011 14:29:00 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 14:29:00 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] received content, 31134 B
+Mon Oct 03 2011 14:29:00 GMT+0800 (CST) [ce] [DEBUG] [news.sohu.com] extract(http://news.sohu.com/20111003/n321228696.shtml)
+Mon Oct 03 2011 14:29:00 GMT+0800 (CST) [cache] [DEBUG] [news.sohu.com] read cache file: ./cache/news.sohu.com/f76735a7fe44fb0bb1dcc67e8377b0e53872759d.rdby
+Mon Oct 03 2011 15:02:02 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 15:02:02 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] received content, 31113 B
+Mon Oct 03 2011 15:02:02 GMT+0800 (CST) [ce] [DEBUG] [news.sohu.com] extract(http://news.sohu.com/20111003/n321228696.shtml)
+Mon Oct 03 2011 15:02:02 GMT+0800 (CST) [cache] [DEBUG] [news.sohu.com] read cache file: ./cache/news.sohu.com/f76735a7fe44fb0bb1dcc67e8377b0e53872759d.rdby
+Mon Oct 03 2011 15:02:33 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 15:04:53 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 15:09:47 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 15:24:03 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 15:28:25 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 15:36:19 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 15:38:51 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 15:38:59 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] received content, 31128 B
+Mon Oct 03 2011 15:38:59 GMT+0800 (CST) [ce] [DEBUG] [news.sohu.com] extract(http://news.sohu.com/20111003/n321228696.shtml)
+Mon Oct 03 2011 15:38:59 GMT+0800 (CST) [cache] [DEBUG] [news.sohu.com] read cache file: ./cache/news.sohu.com/f76735a7fe44fb0bb1dcc67e8377b0e53872759d.rdby
+Mon Oct 03 2011 15:39:57 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 15:40:03 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] received content, 31107 B
+Mon Oct 03 2011 15:40:03 GMT+0800 (CST) [ce] [DEBUG] [news.sohu.com] extract(http://news.sohu.com/20111003/n321228696.shtml)
+Mon Oct 03 2011 15:40:03 GMT+0800 (CST) [cache] [DEBUG] [news.sohu.com] read cache file: ./cache/news.sohu.com/f76735a7fe44fb0bb1dcc67e8377b0e53872759d.rdby
+Mon Oct 03 2011 15:40:27 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 15:43:08 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 15:43:21 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 16:04:06 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 16:04:07 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] received content, 31188 B
+Mon Oct 03 2011 16:04:07 GMT+0800 (CST) [ce] [DEBUG] [news.sohu.com] extract(http://news.sohu.com/20111003/n321228696.shtml)
+Mon Oct 03 2011 16:04:07 GMT+0800 (CST) [cache] [DEBUG] [news.sohu.com] read cache file: ./cache/news.sohu.com/f76735a7fe44fb0bb1dcc67e8377b0e53872759d.rdby
+Mon Oct 03 2011 16:04:19 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 16:04:23 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] received content, 31188 B
+Mon Oct 03 2011 16:04:23 GMT+0800 (CST) [ce] [DEBUG] [news.sohu.com] extract(http://news.sohu.com/20111003/n321228696.shtml)
+Mon Oct 03 2011 16:04:23 GMT+0800 (CST) [cache] [DEBUG] [news.sohu.com] read cache file: ./cache/news.sohu.com/f76735a7fe44fb0bb1dcc67e8377b0e53872759d.rdby
+Mon Oct 03 2011 16:04:33 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 16:36:18 GMT+0800 (CST) [urlopen] [INFO] [news.sohu.com] using keep-alive connection
+Mon Oct 03 2011 16:36:18 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 16:49:50 GMT+0800 (CST) [urlopen] [INFO] [news.sohu.com] using keep-alive connection
+Mon Oct 03 2011 16:49:50 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 16:50:51 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 16:52:35 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 16:53:06 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 17:00:50 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 17:04:21 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] received content, 121929 B
+Mon Oct 03 2011 17:07:59 GMT+0800 (CST) [ce] [DEBUG] [news.sohu.com] extract(http://news.sohu.com/20111003/n321228696.shtml)
+Mon Oct 03 2011 17:08:20 GMT+0800 (CST) [cache] [DEBUG] [news.sohu.com] read cache file: ./cache/news.sohu.com/f76735a7fe44fb0bb1dcc67e8377b0e53872759d.rdby
+Mon Oct 03 2011 17:10:14 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 17:10:35 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] received content, 121929 B
+Mon Oct 03 2011 17:10:35 GMT+0800 (CST) [ce] [DEBUG] [news.sohu.com] extract(http://news.sohu.com/20111003/n321228696.shtml)
+Mon Oct 03 2011 17:10:35 GMT+0800 (CST) [cache] [DEBUG] [news.sohu.com] read cache file: ./cache/news.sohu.com/f76735a7fe44fb0bb1dcc67e8377b0e53872759d.rdby
+Mon Oct 03 2011 17:17:41 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 17:18:43 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 17:19:17 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 17:19:31 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] received content, 121929 B
+Mon Oct 03 2011 17:19:31 GMT+0800 (CST) [ce] [DEBUG] [news.sohu.com] extract(http://news.sohu.com/20111003/n321228696.shtml)
+Mon Oct 03 2011 17:19:39 GMT+0800 (CST) [filter] [INFO] [news.sohu.com] create Filter(http://news.sohu.com/20111003/n321228696.shtml)
+Mon Oct 03 2011 17:20:02 GMT+0800 (CST) [filter] [INFO] [news.sohu.com] no pre-filters to apply
+Mon Oct 03 2011 17:20:14 GMT+0800 (CST) [ce] [DEBUG] [news.sohu.com] callback from preFilter(121931):http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 17:20:49 GMT+0800 (CST) [ce] [DEBUG] [news.sohu.com] callback from readability.parse(5370):http://news.sohu.com/20111003/n321228696.shtml
+Mon Oct 03 2011 17:20:49 GMT+0800 (CST) [filter] [INFO] [news.sohu.com] filtering create jsdom doc: http://news.sohu.com/20111003/n321228696.shtml (5409)
+Mon Oct 03 2011 17:22:26 GMT+0800 (CST) [cache] [DEBUG] [news.sohu.com] write cache content (5371) file: ./cache/news.sohu.com/f76735a7fe44fb0bb1dcc67e8377b0e53872759d.rdby
+Fri Oct 07 2011 20:19:05 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Fri Oct 07 2011 20:22:35 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] http request url: http://news.sohu.com/20111003/n321228696.shtml
+Fri Oct 07 2011 20:22:36 GMT+0800 (CST) [urlopen] [DEBUG] [news.sohu.com] received content, 123347 B
+Fri Oct 07 2011 20:22:36 GMT+0800 (CST) [ce] [DEBUG] [news.sohu.com] extract(http://news.sohu.com/20111003/n321228696.shtml)
+Fri Oct 07 2011 20:22:36 GMT+0800 (CST) [filter] [INFO] [news.sohu.com] create Filter(http://news.sohu.com/20111003/n321228696.shtml)
+Fri Oct 07 2011 20:22:36 GMT+0800 (CST) [filter] [INFO] [news.sohu.com] no pre-filters to apply
+Fri Oct 07 2011 20:22:36 GMT+0800 (CST) [ce] [DEBUG] [news.sohu.com] callback from preFilter(123349):http://news.sohu.com/20111003/n321228696.shtml
+Fri Oct 07 2011 20:23:06 GMT+0800 (CST) [ce] [DEBUG] [news.sohu.com] callback from readability.parse(5370):http://news.sohu.com/20111003/n321228696.shtml
+Fri Oct 07 2011 20:23:06 GMT+0800 (CST) [filter] [INFO] [news.sohu.com] filtering create jsdom doc: http://news.sohu.com/20111003/n321228696.shtml (5409)

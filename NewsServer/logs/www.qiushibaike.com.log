@@ -1,0 +1,13 @@
+Mon Oct 03 2011 00:53:42 GMT+0800 (CST) [urlopen] [INFO] [www.qiushibaike.com] using keep-alive connection
+Mon Oct 03 2011 00:53:42 GMT+0800 (CST) [cache] [INFO] [www.qiushibaike.com] create non-existing domain directory
+Mon Oct 03 2011 00:53:42 GMT+0800 (CST) [urlopen] [DEBUG] [www.qiushibaike.com] http request url: http://www.qiushibaike.com/groups/2
+Mon Oct 03 2011 00:53:44 GMT+0800 (CST) [cache] [DEBUG] [www.qiushibaike.com] write cache content (undefined) file: ./cache/www.qiushibaike.com/bfbe927b1bacc0e621a550c2705ae7665a0e6340.json
+Mon Oct 03 2011 00:53:44 GMT+0800 (CST) [cache] [DEBUG] [www.qiushibaike.com] write cache content (49259) file: ./cache/www.qiushibaike.com/bfbe927b1bacc0e621a550c2705ae7665a0e6340.raw
+Mon Oct 03 2011 00:53:44 GMT+0800 (CST) [urlopen] [DEBUG] [www.qiushibaike.com] received content, 49259 B
+Mon Oct 03 2011 00:53:44 GMT+0800 (CST) [ce] [DEBUG] [www.qiushibaike.com] extract(http://www.qiushibaike.com/groups/2)
+Mon Oct 03 2011 00:53:44 GMT+0800 (CST) [filter] [INFO] [www.qiushibaike.com] create Filter(http://www.qiushibaike.com/groups/2)
+Mon Oct 03 2011 00:53:44 GMT+0800 (CST) [filter] [INFO] [www.qiushibaike.com] no pre-filters to apply
+Mon Oct 03 2011 00:53:44 GMT+0800 (CST) [ce] [DEBUG] [www.qiushibaike.com] callback from preFilter(49259):http://www.qiushibaike.com/groups/2
+Mon Oct 03 2011 00:53:45 GMT+0800 (CST) [ce] [DEBUG] [www.qiushibaike.com] callback from readability.parse(10693):http://www.qiushibaike.com/groups/2
+Mon Oct 03 2011 00:53:45 GMT+0800 (CST) [filter] [INFO] [www.qiushibaike.com] filtering create jsdom doc: http://www.qiushibaike.com/groups/2 (10732)
+Mon Oct 03 2011 00:53:46 GMT+0800 (CST) [cache] [DEBUG] [www.qiushibaike.com] write cache content (11552) file: ./cache/www.qiushibaike.com/bfbe927b1bacc0e621a550c2705ae7665a0e6340.rdby

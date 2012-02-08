@@ -1,0 +1,74 @@
+Mon Oct 03 2011 00:54:47 GMT+0800 (CST) [urlopen] [INFO] [cnbeta.com] using keep-alive connection
+Mon Oct 03 2011 00:54:47 GMT+0800 (CST) [cache] [INFO] [cnbeta.com] create non-existing domain directory
+Mon Oct 03 2011 00:54:47 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] http request url: http://cnbeta.com/articles/157051.htm
+Mon Oct 03 2011 00:54:48 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] write cache content (undefined) file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.json
+Mon Oct 03 2011 00:54:48 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] write cache content (21624) file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.raw
+Mon Oct 03 2011 00:54:48 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] received content, 21625 B
+Mon Oct 03 2011 00:54:48 GMT+0800 (CST) [ce] [DEBUG] [cnbeta.com] extract(http://cnbeta.com/articles/157051.htm)
+Mon Oct 03 2011 00:54:48 GMT+0800 (CST) [filter] [INFO] [cnbeta.com] create Filter(http://cnbeta.com/articles/157051.htm)
+Mon Oct 03 2011 00:54:48 GMT+0800 (CST) [filter] [INFO] [cnbeta.com] no pre-filters to apply
+Mon Oct 03 2011 00:54:48 GMT+0800 (CST) [ce] [DEBUG] [cnbeta.com] callback from preFilter(21624):http://cnbeta.com/articles/157051.htm
+Mon Oct 03 2011 00:54:48 GMT+0800 (CST) [ce] [DEBUG] [cnbeta.com] callback from readability.parse(1039):http://cnbeta.com/articles/157051.htm
+Mon Oct 03 2011 00:54:48 GMT+0800 (CST) [filter] [INFO] [cnbeta.com] filtering create jsdom doc: http://cnbeta.com/articles/157051.htm (1078)
+Mon Oct 03 2011 00:54:50 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] write cache content (1057) file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.rdby
+Mon Oct 03 2011 00:58:50 GMT+0800 (CST) [urlopen] [INFO] [cnbeta.com] using keep-alive connection
+Mon Oct 03 2011 00:58:50 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] use url cache, force_cache is set: http://cnbeta.com/articles/157051.htm
+Mon Oct 03 2011 00:58:50 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.raw
+Mon Oct 03 2011 00:58:50 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.json
+Mon Oct 03 2011 00:58:50 GMT+0800 (CST) [ce] [DEBUG] [cnbeta.com] extract(http://cnbeta.com/articles/157051.htm)
+Mon Oct 03 2011 00:58:50 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.rdby
+Mon Oct 03 2011 01:01:34 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] use url cache, force_cache is set: http://cnbeta.com/articles/157051.htm
+Mon Oct 03 2011 01:01:34 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.raw
+Mon Oct 03 2011 01:01:34 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.json
+Mon Oct 03 2011 01:01:34 GMT+0800 (CST) [ce] [DEBUG] [cnbeta.com] extract(http://cnbeta.com/articles/157051.htm)
+Mon Oct 03 2011 01:01:34 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.rdby
+Mon Oct 03 2011 01:03:36 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] use url cache, force_cache is set: http://cnbeta.com/articles/157051.htm
+Mon Oct 03 2011 01:03:36 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.raw
+Mon Oct 03 2011 01:03:36 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.json
+Mon Oct 03 2011 01:03:36 GMT+0800 (CST) [ce] [DEBUG] [cnbeta.com] extract(http://cnbeta.com/articles/157051.htm)
+Mon Oct 03 2011 01:03:36 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.rdby
+Mon Oct 03 2011 01:06:24 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] use url cache, force_cache is set: http://cnbeta.com/articles/157051.htm
+Mon Oct 03 2011 01:06:24 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.raw
+Mon Oct 03 2011 01:06:24 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.json
+Mon Oct 03 2011 01:06:24 GMT+0800 (CST) [ce] [DEBUG] [cnbeta.com] extract(http://cnbeta.com/articles/157051.htm)
+Mon Oct 03 2011 01:06:24 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.rdby
+Mon Oct 03 2011 01:07:19 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] use url cache, force_cache is set: http://cnbeta.com/articles/157051.htm
+Mon Oct 03 2011 01:07:19 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.raw
+Mon Oct 03 2011 01:07:19 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.json
+Mon Oct 03 2011 01:07:19 GMT+0800 (CST) [ce] [DEBUG] [cnbeta.com] extract(http://cnbeta.com/articles/157051.htm)
+Mon Oct 03 2011 01:07:19 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.rdby
+Mon Oct 03 2011 01:07:36 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] use url cache, force_cache is set: http://cnbeta.com/articles/157051.htm
+Mon Oct 03 2011 01:07:36 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.raw
+Mon Oct 03 2011 01:07:36 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.json
+Mon Oct 03 2011 01:07:36 GMT+0800 (CST) [ce] [DEBUG] [cnbeta.com] extract(http://cnbeta.com/articles/157051.htm)
+Mon Oct 03 2011 01:07:36 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.rdby
+Mon Oct 03 2011 01:07:56 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] use url cache, force_cache is set: http://cnbeta.com/articles/157051.htm
+Mon Oct 03 2011 01:07:56 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.raw
+Mon Oct 03 2011 01:07:56 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.json
+Mon Oct 03 2011 01:07:56 GMT+0800 (CST) [ce] [DEBUG] [cnbeta.com] extract(http://cnbeta.com/articles/157051.htm)
+Mon Oct 03 2011 01:07:56 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.rdby
+Mon Oct 03 2011 01:10:01 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] use url cache, force_cache is set: http://cnbeta.com/articles/157051.htm
+Mon Oct 03 2011 01:10:06 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.raw
+Mon Oct 03 2011 01:10:06 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.json
+Mon Oct 03 2011 01:10:06 GMT+0800 (CST) [ce] [DEBUG] [cnbeta.com] extract(http://cnbeta.com/articles/157051.htm)
+Mon Oct 03 2011 01:10:06 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.rdby
+Mon Oct 03 2011 01:13:07 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] http request url: http://cnbeta.com/articles/157051.htm
+Mon Oct 03 2011 01:14:24 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] http request url: http://cnbeta.com/articles/157051.htm
+Mon Oct 03 2011 01:14:24 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] received content, 21625 B
+Mon Oct 03 2011 01:14:24 GMT+0800 (CST) [ce] [DEBUG] [cnbeta.com] extract(http://cnbeta.com/articles/157051.htm)
+Mon Oct 03 2011 01:14:24 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.rdby
+Mon Oct 03 2011 01:16:13 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] http request url: http://cnbeta.com/articles/157051.htm
+Mon Oct 03 2011 01:18:00 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] http request url: http://cnbeta.com/articles/157051.htm
+Mon Oct 03 2011 01:20:56 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] http request url: http://cnbeta.com/articles/157051.htm
+Mon Oct 03 2011 01:21:00 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] received content, 21625 B
+Mon Oct 03 2011 01:21:00 GMT+0800 (CST) [ce] [DEBUG] [cnbeta.com] extract(http://cnbeta.com/articles/157051.htm)
+Mon Oct 03 2011 01:21:00 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.rdby
+Mon Oct 03 2011 01:22:20 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] http request url: http://cnbeta.com/articles/157051.htm
+Mon Oct 03 2011 01:22:21 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] received content, 21625 B
+Mon Oct 03 2011 01:22:21 GMT+0800 (CST) [ce] [DEBUG] [cnbeta.com] extract(http://cnbeta.com/articles/157051.htm)
+Mon Oct 03 2011 01:22:21 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.rdby
+Mon Oct 03 2011 01:23:07 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] http request url: http://cnbeta.com/articles/157051.htm
+Mon Oct 03 2011 01:23:08 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] received content, 21625 B
+Mon Oct 03 2011 01:23:08 GMT+0800 (CST) [ce] [DEBUG] [cnbeta.com] extract(http://cnbeta.com/articles/157051.htm)
+Mon Oct 03 2011 01:23:08 GMT+0800 (CST) [cache] [DEBUG] [cnbeta.com] read cache file: ./cache/cnbeta.com/a1e7848c155b94ed327f7a34f46989517dcc0293.rdby
+Mon Oct 03 2011 15:33:44 GMT+0800 (CST) [urlopen] [DEBUG] [cnbeta.com] http request url: http://cnbeta.com/articles/157051.htm

@@ -1,0 +1,64 @@
+{"urlopen":
+  {
+    "cache": true,
+    "headers":
+    {
+      "User-Agent": "Mozilla/5.0 (compatible; Feedability/0.0; +https://github.com/4poc/feedability)",
+      "Accept": "*/*"
+    },
+    "ignore_http_charset": false,
+    "convert_charset": true
+  },
+  "filter":
+  {
+    "activate": true,
+    "jquery_url": "http://code.jquery.com/jquery-1.4.2.min.js",
+    "rules":
+    {
+      ".*":
+      {
+        "post": 
+        {
+          "replace": 
+          {
+            "(src|href)=('|\")?(\/)": "$1=$2%{URL_BASE}",
+            "<script[^>]*>([\\s\\S]*?)</script>": " ",
+            "onclick=\"[^\"]+\"": ""
+          },
+          "remove": ["object"]
+        }
+      },
+      "heise.de": 
+      {
+        "pre": 
+        {
+          "remove": ["#mitte_rechts"]
+        }
+      },
+      "carta.info": 
+      {
+        "pre": 
+        {
+          "remove": ["#commentblock"]
+        }
+      },
+      "giessener-allgemeine.de": 
+      {
+        "prepend": [".fettvorspann"]
+      }
+    }
+  },
+
+  "log": 
+  {
+    "console": true,
+    "stderr": false,
+    "file": true,
+    "file_seperate": false,
+    "syncronized": false,
+    "path": "./logs",
+    "console_level": 3,
+    "file_level": 4
+  }
+
+}
